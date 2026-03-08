@@ -54,7 +54,7 @@ class Motorcycle extends Vehicle {
 }
 
 
-public class VehicleHierarchy {
+public class MultiArrayProcessing {
 
     public static void main(String[] args) {
 
@@ -67,7 +67,7 @@ public class VehicleHierarchy {
         };
 
         System.out.println("========================================");
-        System.out.println("       Vehicle Hierarchy Demo           ");
+        System.out.println("       Multi Array Processing Demo           ");
         System.out.println("========================================\n");
 
         for (int i = 0; i < fleet.length; i++) {
@@ -81,3 +81,4 @@ public class VehicleHierarchy {
         System.out.println("========================================");
     }
 }
+
